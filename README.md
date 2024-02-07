@@ -22,7 +22,7 @@ Este es un proyecto que combina tanto el desarrollo de frontend como backend uti
   1. Clona este repositorio en tu dispositivo local:
 
      ```bash
-     git clone <URL_DEL_REPO>
+     git clone <[URL_DEL_REPO](https://github.com/JuanHenao1999/MERN-VITE.git)>
      ```
 
   2. Configura la base de datos MySQL. Asegúrate de tener MySQL instalado en tu máquina y crea una base de datos para la aplicación.
