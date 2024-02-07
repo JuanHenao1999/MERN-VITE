@@ -17,9 +17,9 @@ try {
 }
 
 
-app.get('/', (req,res) => {
-    res.send('Hola Soy Goku')
-});
+// app.get('/', (req,res) => {
+//     res.send('Hola Soy Goku')
+// });
 
 app.listen(8000, () => {
     console.log('Server Up running in http://localhost:8000');
