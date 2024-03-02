@@ -42,14 +42,14 @@ Este es un proyecto que combina tanto el desarrollo de frontend como backend uti
   5. Inicia el servidor backend:
 
      ```bash
-     cd backend
+     cd node
      nodemon app
      ```
 
   6. Inicia la aplicación frontend:
 
      ```bash
-     cd frontend
+     cd vitefront
      npm run dev
      ```
 
